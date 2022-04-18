@@ -11,10 +11,6 @@ class dadoController {
         res.status(200).send(req.body)
     }
 
-
-
 }
 
 export default dadoController;
-
-
