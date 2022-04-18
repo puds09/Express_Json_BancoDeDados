@@ -1,4 +1,4 @@
-import db from "../dataBase/bancoDeDados.js";
+import db from "../dataBase/bancoDeDados.json" assert { type: "json" };
 
 class dadoController {
 
